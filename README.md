@@ -1,5 +1,3 @@
-# MBiostat_Thesis
-
 # Exploring the Association Between Sexual Behavior, Socio-Demographic, and Biological Factors with HIV Infection Using Data from the 2011 Uganda AIDS Indicator Survey (UAIS)
 
 **Charles Luswata, BSTAT, MS**  
